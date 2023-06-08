@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX system Engineering Devops
+Learning the basics of shell
